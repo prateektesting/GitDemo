@@ -9,16 +9,8 @@ public class SeleniumTest {
 	public void BrowserAutomation()
 	
 	{
-		System.out.println("BrowserAutomation");
-		System.out.println("BrowserAutomation2");
-		System.out.println("BrowserAutomation3");
-		//
-		//
-		//
-		System.out.println("BrowserAutomation4");
-		System.out.println("BrowserAutomation5");
-		System.out.println("BrowserAutomation6");
-		System.out.println("BrowserAutomation7");
+		System.out.println("This is develope branch change");
+		
 		
 
 	}
